@@ -1,0 +1,26 @@
+move common-logging log4j
+
+
+200	OK
+Connection: keep-alive
+Date: Sun, 05 Apr 2015 14:02:32 GMT
+Set-Cookie: saevisited=101.226.103.61.1428242552892123
+Server: nginx/1.4.4
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 196
+<xml>
+    <ToUserName>
+        <![CDATA[null]]>
+    </ToUserName>
+    <FromUserName>
+        <![CDATA[null]]>
+    </FromUserName>
+    <CreateTime>null</CreateTime>
+    <MsgType>
+        <![CDATA[text]]>
+    </MsgType>
+    <Content>
+        <![CDATA[null]]>
+    </Content>
+</xml>
